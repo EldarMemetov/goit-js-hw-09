@@ -128,3 +128,24 @@ body {
   button:hover {
     background-color: #6c8cff;
   }
+
+
+  .back-btn{
+    cursor: pointer;
+    color: #fff;
+    font-family: inherit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    display: flex;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: green;
+    border: none;
+    margin-top: 20px;
+  }
